@@ -1,4 +1,4 @@
-# Huffman Coding — Lossless File Compression Engine
+# HuffZip — Lossless File Compression Engine
 
 A C++ implementation of Huffman coding for lossless compression and decompression of text files. It builds a Huffman tree with a min-heap priority queue, derives optimal prefix codes via binary tree traversal, and packs the resulting bitstream into bytes for compact storage.
 
